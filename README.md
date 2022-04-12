@@ -1,5 +1,7 @@
 Amazon Review Prediction using Machine Learning algorithms in pyspark
 
+Please follow this blog
+
 Applying machine learning algorithms to very large datasets is challenging today. most of the company are using spark to analyze large data, train machine learning models, and extract information from massive datasets. in this blog, I explained all the necessary steps to build a machine learning model for text classification in pyspark.
 I have used the Amazon Fine Food Review dataset. This dataset consists of reviews of fine foods from Amazon.
 
@@ -28,3 +30,4 @@ I have divided the classification problem into the below steps:
      -  Decision Tree Classifier
      -  Multilayer Perceptron Classifier
 6. Results
+
